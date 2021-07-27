@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.h-background{
+    background-color: #FFF9F4;
+}
+
+.p2-text-color{
+    color: #FA804C;
+}
+.p-text-color{
+    color: #363958;
+}
